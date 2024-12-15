@@ -2,4 +2,6 @@ pandas
 matplotlib
 textblob
 scikit-learn
-
+numpy
+tulipy
+pynance
